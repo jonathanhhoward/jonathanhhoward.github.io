@@ -1,3 +1,4 @@
+@import-normalize;
 @import '~fontsource-montserrat';
 $primary-color: #87bdd8;
 $secondary-color: #eeeeee;
@@ -5,14 +6,7 @@ $shadow-color: #333333;
 $active-color: #d887bd;
 
 html {
-  box-sizing: border-box;
   font-family: "Montserrat", Arial, sans-serif;
-}
-
-*,
-*:before,
-*:after {
-  box-sizing: inherit;
 }
 
 body {
