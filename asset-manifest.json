@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5b9518f.chunk.css",
+    "main.js": "/static/js/main.3e8690b4.chunk.js",
+    "main.js.map": "/static/js/main.3e8690b4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fa3c400e.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fa3c400e.js.map",
+    "static/js/2.324bff06.chunk.js": "/static/js/2.324bff06.chunk.js",
+    "static/js/2.324bff06.chunk.js.map": "/static/js/2.324bff06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.8849d26e0aefbf2b089c0040e750d5c3.js": "/precache-manifest.8849d26e0aefbf2b089c0040e750d5c3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.b5b9518f.chunk.css.map": "/static/css/main.b5b9518f.chunk.css.map",
+    "static/js/2.324bff06.chunk.js.LICENSE.txt": "/static/js/2.324bff06.chunk.js.LICENSE.txt",
+    "static/media/analog-clock.png": "/static/media/analog-clock.b05da268.png",
+    "static/media/bar-chart.png": "/static/media/bar-chart.3e96157e.png",
+    "static/media/exercise-tracker.png": "/static/media/exercise-tracker.ae465698.png",
+    "static/media/file-metadata.png": "/static/media/file-metadata.093f8f65.png",
+    "static/media/javascript-calculator.png": "/static/media/javascript-calculator.15fde892.png",
+    "static/media/markdown-previewer.png": "/static/media/markdown-previewer.2e20f747.png",
+    "static/media/metric-imp-converter.png": "/static/media/metric-imp-converter.e044f6e8.png",
+    "static/media/App.scss": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2",
+    "static/media/pomodoro-clock.png": "/static/media/pomodoro-clock.c4c993c1.png",
+    "static/media/product-landing-page.png": "/static/media/product-landing-page.fac3d9db.png",
+    "static/media/profile-selfie.jpg": "/static/media/profile-selfie.c12ac6cd.jpg",
+    "static/media/survey-form.png": "/static/media/survey-form.eb1d3bab.png",
+    "static/media/technical-documentation-page.png": "/static/media/technical-documentation-page.47e9ecdd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa3c400e.js",
+    "static/js/2.324bff06.chunk.js",
+    "static/css/main.b5b9518f.chunk.css",
+    "static/js/main.3e8690b4.chunk.js"
+  ]
+}
