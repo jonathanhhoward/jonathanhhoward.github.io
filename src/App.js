@@ -13,6 +13,15 @@ import fileMetadata from './images/file-metadata.png';
 import metricImpConverter from './images/metric-imp-converter.png';
 import analogClock from './images/analog-clock.png';
 
+window.onscroll = () => {
+  const header = document.querySelector('header');
+  if (window.scrollY > 0) {
+    header.classList.add('header--shadow');
+  } else {
+    header.classList.remove('header--shadow');
+  }
+};
+
 function App() {
   return (
       <div>
