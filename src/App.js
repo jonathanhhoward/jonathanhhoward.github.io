@@ -1,8 +1,8 @@
 import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Navbar from './components/Navbar';
+import About from './components/About';
 import './App.scss';
-import profileSelfie from './images/profile-selfie.jpg';
 import surveyForm from './images/survey-form.png';
 import technicalDocumentationPage from './images/technical-documentation-page.png';
 import productLandingPage from './images/product-landing-page.png';
@@ -30,11 +30,7 @@ function App() {
         <Navbar/>
         <Switch>
           <Route exact path="/">
-            <div className="title">
-              <img src={profileSelfie} alt="profile selfie"/>
-              <h1>Jonathan Howard</h1>
-              <p>Software Developer</p>
-            </div>
+            <About/>
           </Route>
           <Route path="/projects">
             <div className="project">
