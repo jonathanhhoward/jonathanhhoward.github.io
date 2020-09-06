@@ -1,10 +1,6 @@
 import React from 'react';
-import {
-  BrowserRouter,
-  Link,
-  Route,
-  Switch,
-} from 'react-router-dom';
+import {BrowserRouter, Route, Switch} from 'react-router-dom';
+import Navbar from './components/Navbar';
 import './App.scss';
 import profileSelfie from './images/profile-selfie.jpg';
 import surveyForm from './images/survey-form.png';
@@ -31,13 +27,7 @@ window.onscroll = () => {
 function App() {
   return (
       <BrowserRouter>
-        <nav className="navbar">
-          <ul className="menu">
-            <li><Link to="/">Home</Link></li>
-            <li><Link to="/projects">Projects</Link></li>
-            <li><Link to="/profiles">Profiles</Link></li>
-          </ul>
-        </nav>
+        <Navbar/>
         <Switch>
           <Route exact path="/">
             <div className="title">
