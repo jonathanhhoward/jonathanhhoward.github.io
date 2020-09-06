@@ -1,4 +1,10 @@
 import React from 'react';
+import {
+  BrowserRouter,
+  Link,
+  Route,
+  Switch,
+} from 'react-router-dom';
 import './App.scss';
 import profileSelfie from './images/profile-selfie.jpg';
 import surveyForm from './images/survey-form.png';
@@ -24,24 +30,23 @@ window.onscroll = () => {
 
 function App() {
   return (
-      <div>
+      <BrowserRouter>
         <nav className="navbar">
           <ul className="menu">
-            <li><a href={"#home"}>Home</a></li>
-            <li><a href={"#projects"}>Projects</a></li>
-            <li><a href={"#profiles"}>Profiles</a></li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/projects">Projects</Link></li>
+            <li><Link to="/profiles">Profiles</Link></li>
           </ul>
         </nav>
-        <main>
-          <section id="home">
+        <Switch>
+          <Route exact path="/">
             <div className="title">
               <img src={profileSelfie} alt="profile selfie"/>
               <h1>Jonathan Howard</h1>
               <p>Software Developer</p>
             </div>
-          </section>
-          <section id="projects">
-            <h2 className="section-header">Projects</h2>
+          </Route>
+          <Route path="/projects">
             <div className="project">
               <a href="https://jonathanhhoward.github.io/survey-form">
                 <figure className="tile float">
@@ -143,10 +148,9 @@ function App() {
                 </figure>
               </a>
             </div>
-          </section>
-          <section id="profiles">
+          </Route>
+          <Route path="/profiles">
             <div className="profile">
-              <h2 className="section-header">Profiles</h2>
               <div className="profile">
                 <a href="https://github.com/jonathanhhoward"
                    className="button">
@@ -162,9 +166,9 @@ function App() {
                 </a>
               </div>
             </div>
-          </section>
-        </main>
-      </div>
+          </Route>
+        </Switch>
+      </BrowserRouter>
   );
 }
 
