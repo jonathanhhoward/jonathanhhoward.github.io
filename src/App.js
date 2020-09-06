@@ -6,15 +6,6 @@ import Showcase from './components/Showcase';
 import Profiles from './Profiles';
 import './App.scss';
 
-window.onscroll = () => {
-  const navbar = document.querySelector('.navbar');
-  if (window.scrollY > 0) {
-    navbar.classList.add('navbar--shadow');
-  } else {
-    navbar.classList.remove('navbar--shadow');
-  }
-};
-
 function App() {
   return (
       <BrowserRouter>
