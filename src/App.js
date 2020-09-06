@@ -14,26 +14,24 @@ import metricImpConverter from './images/metric-imp-converter.png';
 import analogClock from './images/analog-clock.png';
 
 window.onscroll = () => {
-  const header = document.querySelector('header');
+  const navbar = document.querySelector('.navbar');
   if (window.scrollY > 0) {
-    header.classList.add('header--shadow');
+    navbar.classList.add('navbar--shadow');
   } else {
-    header.classList.remove('header--shadow');
+    navbar.classList.remove('navbar--shadow');
   }
 };
 
 function App() {
   return (
       <div>
-        <header>
-          <nav className="navbar">
-            <ul className="menu">
-              <li><a href={"#home"}>Home</a></li>
-              <li><a href={"#projects"}>Projects</a></li>
-              <li><a href={"#profiles"}>Profiles</a></li>
-            </ul>
-          </nav>
-        </header>
+        <nav className="navbar">
+          <ul className="menu">
+            <li><a href={"#home"}>Home</a></li>
+            <li><a href={"#projects"}>Projects</a></li>
+            <li><a href={"#profiles"}>Profiles</a></li>
+          </ul>
+        </nav>
         <main>
           <section id="home">
             <div className="title">

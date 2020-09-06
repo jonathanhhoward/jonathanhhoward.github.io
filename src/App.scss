@@ -20,30 +20,25 @@ a {
   color: black;
 }
 
-header {
+.navbar {
   position: fixed;
-  top: 0;
   width: 100%;
   background-color: $secondary-color;
 }
 
-.header--shadow {
+.navbar--shadow {
   box-shadow: 0 0 8px $shadow-color;
-}
-
-.navbar {
-  width: 100%;
-
-  @media screen and (min-width: 720px) {
-    float: right;
-    width: 480px;
-  }
 }
 
 .menu {
   list-style-type: none;
   margin: 0;
   padding: 0;
+
+  @media screen and (min-width: 720px) {
+    float: right;
+    width: 480px;
+  }
 
   li {
     float: left;
