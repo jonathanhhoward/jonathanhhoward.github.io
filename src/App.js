@@ -3,6 +3,7 @@ import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import Showcase from './components/Showcase';
+import Profiles from './Profiles';
 import './App.scss';
 
 window.onscroll = () => {
@@ -26,22 +27,7 @@ function App() {
             <Showcase/>
           </Route>
           <Route path="/profiles">
-            <div className="profile">
-              <div className="profile">
-                <a href="https://github.com/jonathanhhoward"
-                   className="button">
-                  GitHub
-                </a>
-                <a href="https://www.freecodecamp.org/jonathanhoward"
-                   className="button">
-                  freeCodeCamp
-                </a>
-                <a href="https://linkedin.com/in/jonathanhhoward"
-                   className="button">
-                  LinkedIn
-                </a>
-              </div>
-            </div>
+            <Profiles/>
           </Route>
         </Switch>
       </BrowserRouter>

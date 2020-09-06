@@ -69,7 +69,7 @@ a {
 }
 
 .about,
-.profile {
+.profiles {
   display: flex;
   height: 100vh;
   flex-direction: column;
@@ -133,7 +133,7 @@ a {
   line-height: 2;
 }
 
-.profile {
+.profiles {
   justify-content: space-evenly;
 
   h2 {
