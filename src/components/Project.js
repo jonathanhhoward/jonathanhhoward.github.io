@@ -5,7 +5,7 @@ function Project({href, img, caption}) {
       <a href={href}>
         <figure className="tile">
           <img
-              src={process.env.PUBLIC_URL + img.src}
+              src={img.src}
               alt={img.alt}
           />
           <figcaption className="caption">
