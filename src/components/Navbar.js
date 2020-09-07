@@ -20,7 +20,7 @@ function Navbar() {
 
   return (
       <nav className="navbar">
-        <ul className="menu">
+        <ul>
           <li><Link to="/">About</Link></li>
           <li><Link to="/showcase">Showcase</Link></li>
           <li><Link to="/profiles">Profiles</Link></li>

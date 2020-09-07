@@ -2,8 +2,11 @@ import React from 'react';
 
 function Project({href, img, caption}) {
   return (
-      <a href={href}>
-        <figure className="tile">
+      <a
+          href={href}
+          className="project"
+      >
+        <figure>
           <img
               src={img.src}
               alt={img.alt}

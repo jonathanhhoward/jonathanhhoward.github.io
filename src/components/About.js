@@ -4,7 +4,7 @@ import selfPortrait from '../images/self-portrait.jpg';
 function About() {
   return (
       <div className="about">
-        <img src={selfPortrait} alt="profile selfie"/>
+        <img src={selfPortrait} alt="self portrait"/>
         <h1>Jonathan Howard</h1>
         <p>Software Developer</p>
       </div>
