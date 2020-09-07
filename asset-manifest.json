@@ -1,35 +1,24 @@
 {
   "files": {
     "main.css": "/static/css/main.bc3dc22b.chunk.css",
-    "main.js": "/static/js/main.76c70b31.chunk.js",
-    "main.js.map": "/static/js/main.76c70b31.chunk.js.map",
+    "main.js": "/static/js/main.fa545631.chunk.js",
+    "main.js.map": "/static/js/main.fa545631.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa3c400e.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa3c400e.js.map",
-    "static/js/2.ab9b81cf.chunk.js": "/static/js/2.ab9b81cf.chunk.js",
-    "static/js/2.ab9b81cf.chunk.js.map": "/static/js/2.ab9b81cf.chunk.js.map",
+    "static/js/2.356dc08f.chunk.js": "/static/js/2.356dc08f.chunk.js",
+    "static/js/2.356dc08f.chunk.js.map": "/static/js/2.356dc08f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7f8c903474bd389ebeefde2cd61cb7f4.js": "/precache-manifest.7f8c903474bd389ebeefde2cd61cb7f4.js",
+    "precache-manifest.ad67e9df4294e802e61304b4c7114e3f.js": "/precache-manifest.ad67e9df4294e802e61304b4c7114e3f.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.bc3dc22b.chunk.css.map": "/static/css/main.bc3dc22b.chunk.css.map",
-    "static/js/2.ab9b81cf.chunk.js.LICENSE.txt": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt",
-    "static/media/analog-clock.png": "/static/media/analog-clock.b05da268.png",
-    "static/media/bar-chart.png": "/static/media/bar-chart.3e96157e.png",
-    "static/media/exercise-tracker.png": "/static/media/exercise-tracker.ae465698.png",
-    "static/media/file-metadata.png": "/static/media/file-metadata.093f8f65.png",
-    "static/media/javascript-calculator.png": "/static/media/javascript-calculator.15fde892.png",
-    "static/media/markdown-previewer.png": "/static/media/markdown-previewer.2e20f747.png",
-    "static/media/metric-imp-converter.png": "/static/media/metric-imp-converter.e044f6e8.png",
+    "static/js/2.356dc08f.chunk.js.LICENSE.txt": "/static/js/2.356dc08f.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2",
-    "static/media/pomodoro-clock.png": "/static/media/pomodoro-clock.c4c993c1.png",
-    "static/media/product-landing-page.png": "/static/media/product-landing-page.fac3d9db.png",
-    "static/media/profile-selfie.jpg": "/static/media/profile-selfie.c12ac6cd.jpg",
-    "static/media/survey-form.png": "/static/media/survey-form.eb1d3bab.png",
-    "static/media/technical-documentation-page.png": "/static/media/technical-documentation-page.47e9ecdd.png"
+    "static/media/self-portrait.jpg": "/static/media/self-portrait.c12ac6cd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.fa3c400e.js",
-    "static/js/2.ab9b81cf.chunk.js",
+    "static/js/2.356dc08f.chunk.js",
     "static/css/main.bc3dc22b.chunk.css",
-    "static/js/main.76c70b31.chunk.js"
+    "static/js/main.fa545631.chunk.js"
   ]
 }

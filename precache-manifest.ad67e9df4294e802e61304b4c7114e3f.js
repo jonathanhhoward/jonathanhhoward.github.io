@@ -1,55 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "82d56b6654fd9b085468bcd5c1cee74c",
+    "revision": "371a8541f1c6c24f72e0484e9873b98e",
     "url": "/index.html"
   },
   {
-    "revision": "3cb3d66fab309a6edeb6",
+    "revision": "17e028c70f8404fb6431",
     "url": "/static/css/main.bc3dc22b.chunk.css"
   },
   {
-    "revision": "10d31a68572a26231992",
-    "url": "/static/js/2.ab9b81cf.chunk.js"
+    "revision": "dc232779a31b97fe1304",
+    "url": "/static/js/2.356dc08f.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.356dc08f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3cb3d66fab309a6edeb6",
-    "url": "/static/js/main.76c70b31.chunk.js"
+    "revision": "17e028c70f8404fb6431",
+    "url": "/static/js/main.fa545631.chunk.js"
   },
   {
     "revision": "03b3d310c076805652fd",
     "url": "/static/js/runtime-main.fa3c400e.js"
-  },
-  {
-    "revision": "b05da2685abaef23d41c438c5a7abd07",
-    "url": "/static/media/analog-clock.b05da268.png"
-  },
-  {
-    "revision": "3e96157e319d31ef60b3fc4968f66e28",
-    "url": "/static/media/bar-chart.3e96157e.png"
-  },
-  {
-    "revision": "ae46569837df355da8de149ece440226",
-    "url": "/static/media/exercise-tracker.ae465698.png"
-  },
-  {
-    "revision": "093f8f6576234b7c0fd67e276fea86d6",
-    "url": "/static/media/file-metadata.093f8f65.png"
-  },
-  {
-    "revision": "15fde8926d89c15aaada544b61540948",
-    "url": "/static/media/javascript-calculator.15fde892.png"
-  },
-  {
-    "revision": "2e20f747e94a7dbfc38e061f9cf74510",
-    "url": "/static/media/markdown-previewer.2e20f747.png"
-  },
-  {
-    "revision": "e044f6e8ea4aa4738999aee770ec3761",
-    "url": "/static/media/metric-imp-converter.e044f6e8.png"
   },
   {
     "revision": "05eaf99337c54c631a1136351a807f33",
@@ -100,23 +72,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2"
   },
   {
-    "revision": "c4c993c1d95df05ae3e713f7a2f77d27",
-    "url": "/static/media/pomodoro-clock.c4c993c1.png"
-  },
-  {
-    "revision": "fac3d9dbc8d24565ef25c1c7a6488c51",
-    "url": "/static/media/product-landing-page.fac3d9db.png"
-  },
-  {
     "revision": "c12ac6cd91e7eb4b71649e494c10ed78",
-    "url": "/static/media/profile-selfie.c12ac6cd.jpg"
-  },
-  {
-    "revision": "eb1d3bab3b3fe384225f06cef043c423",
-    "url": "/static/media/survey-form.eb1d3bab.png"
-  },
-  {
-    "revision": "47e9ecdd9d196d83ac1352cc678cbd86",
-    "url": "/static/media/technical-documentation-page.47e9ecdd.png"
+    "url": "/static/media/self-portrait.c12ac6cd.jpg"
   }
 ]);
