@@ -3,7 +3,7 @@ import {BrowserRouter, Route, Switch} from 'react-router-dom';
 import Navbar from './components/Navbar';
 import About from './components/About';
 import Showcase from './components/Showcase';
-import Profiles from './Profiles';
+import Profiles from './components/Profiles';
 import './App.scss';
 
 function App() {
