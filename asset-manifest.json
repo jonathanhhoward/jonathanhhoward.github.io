@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc3dc22b.chunk.css",
-    "main.js": "/static/js/main.fa545631.chunk.js",
-    "main.js.map": "/static/js/main.fa545631.chunk.js.map",
+    "main.css": "/static/css/main.9a238476.chunk.css",
+    "main.js": "/static/js/main.14c5f012.chunk.js",
+    "main.js.map": "/static/js/main.14c5f012.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa3c400e.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa3c400e.js.map",
     "static/js/2.356dc08f.chunk.js": "/static/js/2.356dc08f.chunk.js",
     "static/js/2.356dc08f.chunk.js.map": "/static/js/2.356dc08f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.ad67e9df4294e802e61304b4c7114e3f.js": "/precache-manifest.ad67e9df4294e802e61304b4c7114e3f.js",
+    "precache-manifest.4c74af366478440cf44fb15dfc84147c.js": "/precache-manifest.4c74af366478440cf44fb15dfc84147c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.bc3dc22b.chunk.css.map": "/static/css/main.bc3dc22b.chunk.css.map",
+    "static/css/main.9a238476.chunk.css.map": "/static/css/main.9a238476.chunk.css.map",
     "static/js/2.356dc08f.chunk.js.LICENSE.txt": "/static/js/2.356dc08f.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2",
     "static/media/self-portrait.jpg": "/static/media/self-portrait.c12ac6cd.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.fa3c400e.js",
     "static/js/2.356dc08f.chunk.js",
-    "static/css/main.bc3dc22b.chunk.css",
-    "static/js/main.fa545631.chunk.js"
+    "static/css/main.9a238476.chunk.css",
+    "static/js/main.14c5f012.chunk.js"
   ]
 }
