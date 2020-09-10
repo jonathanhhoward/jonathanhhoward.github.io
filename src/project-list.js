@@ -1,8 +1,20 @@
-export const projectList = [
+import surveyForm from './images/survey-form.png';
+import technicalDocPage from './images/technical-documentation-page.png';
+import productLandPage from './images/product-landing-page.png';
+import markdownPreview from './images/markdown-previewer.png';
+import javascriptCalc from './images/javascript-calculator.png';
+import pomodoroClock from './images/pomodoro-clock.png';
+import barChart from './images/bar-chart.png';
+import exerciseTracker from './images/exercise-tracker.png';
+import fileMetadata from './images/file-metadata.png';
+import metricImpConvert from './images/metric-imp-converter.png';
+import analogClock from './images/analog-clock.png';
+
+const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/survey-form',
     img: {
-      src: '/images/survey-form.png',
+      src: surveyForm,
       alt: 'icon for survey-form',
     },
     caption: 'Survey Form',
@@ -10,7 +22,7 @@ export const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/technical-documentation-page',
     img: {
-      src: '/images/technical-documentation-page.png',
+      src: technicalDocPage,
       alt: 'icon for technical-documentation-page',
     },
     caption: 'Technical Document Page',
@@ -18,7 +30,7 @@ export const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/product-landing-page/',
     img: {
-      src: '/images/product-landing-page.png',
+      src: productLandPage,
       alt: 'icon for product-landing-page',
     },
     caption: 'Product Landing Page',
@@ -26,7 +38,7 @@ export const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/markdown-previewer',
     img: {
-      src: '/images/markdown-previewer.png',
+      src: markdownPreview,
       alt: 'icon for markdown-previewer',
     },
     caption: 'Markdown Previewer',
@@ -34,7 +46,7 @@ export const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/javascript-calculator',
     img: {
-      src: '/images/javascript-calculator.png',
+      src: javascriptCalc,
       alt: 'icon for javascript-calculator',
     },
     caption: 'JavaScript Calculator',
@@ -42,7 +54,7 @@ export const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/pomodoro-clock',
     img: {
-      src: '/images/pomodoro-clock.png',
+      src: pomodoroClock,
       alt: 'icon for pomodoro-clock',
     },
     caption: 'Pomodoro Clock',
@@ -50,7 +62,7 @@ export const projectList = [
   {
     href: 'https://jonathanhhoward.github.io/bar-chart',
     img: {
-      src: '/images/bar-chart.png',
+      src: barChart,
       alt: 'icon for bar-chart',
     },
     caption: 'Bar Chart',
@@ -58,7 +70,7 @@ export const projectList = [
   {
     href: 'https://jhhoward-exercisetracker.glitch.me',
     img: {
-      src: '/images/exercise-tracker.png',
+      src: exerciseTracker,
       alt: 'icon for exercise-tracker',
     },
     caption: 'Exercise Tracker',
@@ -66,7 +78,7 @@ export const projectList = [
   {
     href: 'https://jhhoward-filemetadata.glitch.me',
     img: {
-      src: '/images/file-metadata.png',
+      src: fileMetadata,
       alt: 'icon for file-metadata',
     },
     caption: 'File Metadata Microservice',
@@ -74,7 +86,7 @@ export const projectList = [
   {
     href: 'https://jhhoward-metricimpconverter.glitch.me',
     img: {
-      src: '/images/metric-imp-converter.png',
+      src: metricImpConvert,
       alt: 'icon for metric-imp-converter',
     },
     caption: 'Metric-Imperial Converter',
@@ -82,10 +94,11 @@ export const projectList = [
   {
     href: 'https://github.com/jonathanhhoward/clock',
     img: {
-      src: '/images/analog-clock.png',
+      src: analogClock,
       alt: 'icon for analog-clock',
     },
     caption: 'Analog Clock',
   },
 ];
 
+export {projectList};
