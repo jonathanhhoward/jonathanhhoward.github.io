@@ -101,4 +101,4 @@ const projectList = [
   },
 ];
 
-export {projectList};
+export default projectList;
