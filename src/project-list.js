@@ -12,7 +12,7 @@ import analogClock from './images/analog-clock.png';
 
 const projectList = [
   {
-    href: 'https://jonathanhhoward.github.io/survey-form',
+    href: '/survey-form',
     img: {
       src: surveyForm,
       alt: 'icon for survey-form',
@@ -20,7 +20,7 @@ const projectList = [
     caption: 'Survey Form',
   },
   {
-    href: 'https://jonathanhhoward.github.io/technical-documentation-page',
+    href: '/technical-documentation-page',
     img: {
       src: technicalDocPage,
       alt: 'icon for technical-documentation-page',
@@ -28,7 +28,7 @@ const projectList = [
     caption: 'Technical Document Page',
   },
   {
-    href: 'https://jonathanhhoward.github.io/product-landing-page/',
+    href: '/product-landing-page/',
     img: {
       src: productLandPage,
       alt: 'icon for product-landing-page',
@@ -36,7 +36,7 @@ const projectList = [
     caption: 'Product Landing Page',
   },
   {
-    href: 'https://jonathanhhoward.github.io/markdown-previewer',
+    href: '/markdown-previewer',
     img: {
       src: markdownPreview,
       alt: 'icon for markdown-previewer',
@@ -44,7 +44,7 @@ const projectList = [
     caption: 'Markdown Previewer',
   },
   {
-    href: 'https://jonathanhhoward.github.io/javascript-calculator',
+    href: '/javascript-calculator',
     img: {
       src: javascriptCalc,
       alt: 'icon for javascript-calculator',
@@ -52,7 +52,7 @@ const projectList = [
     caption: 'JavaScript Calculator',
   },
   {
-    href: 'https://jonathanhhoward.github.io/pomodoro-clock',
+    href: '/pomodoro-clock',
     img: {
       src: pomodoroClock,
       alt: 'icon for pomodoro-clock',
@@ -60,7 +60,7 @@ const projectList = [
     caption: 'Pomodoro Clock',
   },
   {
-    href: 'https://jonathanhhoward.github.io/bar-chart',
+    href: '/bar-chart',
     img: {
       src: barChart,
       alt: 'icon for bar-chart',
