@@ -1,27 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "80e9d7b65f0c227e6be9d11f3a479e3f",
+    "revision": "baf93aaf2aa99dd20822fe1d57901693",
     "url": "/index.html"
   },
   {
-    "revision": "f702dde9b3c1f9bfa31c",
-    "url": "/static/css/main.9a238476.chunk.css"
+    "revision": "5d0f640458a891f6922c",
+    "url": "/static/css/main.fdf206dd.chunk.css"
   },
   {
-    "revision": "10d31a68572a26231992",
-    "url": "/static/js/2.ab9b81cf.chunk.js"
+    "revision": "be8e50fe55094b7399ea",
+    "url": "/static/js/2.220c0a08.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.220c0a08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f702dde9b3c1f9bfa31c",
-    "url": "/static/js/main.06ea5c3c.chunk.js"
+    "revision": "5d0f640458a891f6922c",
+    "url": "/static/js/main.9d680ff7.chunk.js"
   },
   {
     "revision": "03b3d310c076805652fd",
     "url": "/static/js/runtime-main.fa3c400e.js"
+  },
+  {
+    "revision": "cefc20232703e5e3c24efd5f50d75e26",
+    "url": "/static/media/GitHub_Logo.cefc2023.png"
+  },
+  {
+    "revision": "a7253842ea7f047063f163a373b51983",
+    "url": "/static/media/LI-In-Bug_b&w.a7253842.png"
+  },
+  {
+    "revision": "7b6fc3d8c1a511ff0e2d08991783c13e",
+    "url": "/static/media/LI-Logo_b&w.7b6fc3d8.png"
   },
   {
     "revision": "b05da2685abaef23d41c438c5a7abd07",
@@ -34,6 +46,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ae46569837df355da8de149ece440226",
     "url": "/static/media/exercise-tracker.ae465698.png"
+  },
+  {
+    "revision": "ebbf772002eb98dea2c9cb8e89f3bf6e",
+    "url": "/static/media/fcc_secondary_large.ebbf7720.png"
+  },
+  {
+    "revision": "e6c785b975226523a3196acbb0820c2a",
+    "url": "/static/media/fcc_secondary_small.e6c785b9.png"
   },
   {
     "revision": "093f8f6576234b7c0fd67e276fea86d6",

@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a238476.chunk.css",
-    "main.js": "/static/js/main.06ea5c3c.chunk.js",
-    "main.js.map": "/static/js/main.06ea5c3c.chunk.js.map",
+    "main.css": "/static/css/main.fdf206dd.chunk.css",
+    "main.js": "/static/js/main.9d680ff7.chunk.js",
+    "main.js.map": "/static/js/main.9d680ff7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa3c400e.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa3c400e.js.map",
-    "static/js/2.ab9b81cf.chunk.js": "/static/js/2.ab9b81cf.chunk.js",
-    "static/js/2.ab9b81cf.chunk.js.map": "/static/js/2.ab9b81cf.chunk.js.map",
+    "static/js/2.220c0a08.chunk.js": "/static/js/2.220c0a08.chunk.js",
+    "static/js/2.220c0a08.chunk.js.map": "/static/js/2.220c0a08.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.140279d844b4319ba1e463a3f3f88a25.js": "/precache-manifest.140279d844b4319ba1e463a3f3f88a25.js",
+    "precache-manifest.1285544d3a7032be31a25daf52e0e829.js": "/precache-manifest.1285544d3a7032be31a25daf52e0e829.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.9a238476.chunk.css.map": "/static/css/main.9a238476.chunk.css.map",
-    "static/js/2.ab9b81cf.chunk.js.LICENSE.txt": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt",
+    "static/css/main.fdf206dd.chunk.css.map": "/static/css/main.fdf206dd.chunk.css.map",
+    "static/js/2.220c0a08.chunk.js.LICENSE.txt": "/static/js/2.220c0a08.chunk.js.LICENSE.txt",
+    "static/media/GitHub_Logo.png": "/static/media/GitHub_Logo.cefc2023.png",
+    "static/media/LI-In-Bug_b&w.png": "/static/media/LI-In-Bug_b&w.a7253842.png",
+    "static/media/LI-Logo_b&w.png": "/static/media/LI-Logo_b&w.7b6fc3d8.png",
     "static/media/analog-clock.png": "/static/media/analog-clock.b05da268.png",
     "static/media/bar-chart.png": "/static/media/bar-chart.3e96157e.png",
     "static/media/exercise-tracker.png": "/static/media/exercise-tracker.ae465698.png",
+    "static/media/fcc_secondary_large.png": "/static/media/fcc_secondary_large.ebbf7720.png",
+    "static/media/fcc_secondary_small.png": "/static/media/fcc_secondary_small.e6c785b9.png",
     "static/media/file-metadata.png": "/static/media/file-metadata.093f8f65.png",
     "static/media/javascript-calculator.png": "/static/media/javascript-calculator.15fde892.png",
     "static/media/markdown-previewer.png": "/static/media/markdown-previewer.2e20f747.png",
@@ -28,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.fa3c400e.js",
-    "static/js/2.ab9b81cf.chunk.js",
-    "static/css/main.9a238476.chunk.css",
-    "static/js/main.06ea5c3c.chunk.js"
+    "static/js/2.220c0a08.chunk.js",
+    "static/css/main.fdf206dd.chunk.css",
+    "static/js/main.9d680ff7.chunk.js"
   ]
 }
