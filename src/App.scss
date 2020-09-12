@@ -137,7 +137,22 @@ a {
 }
 
 .button {
-  width: 200px;
   margin: 1rem;
-  line-height: 2;
+  padding: 4px;
+
+  img {
+    height: 10vh;
+  }
+}
+
+.landscape {
+  @media (orientation: portrait) {
+    display: none;
+  }
+}
+
+.portrait {
+  @media (orientation: landscape) {
+    display: none;
+  }
 }

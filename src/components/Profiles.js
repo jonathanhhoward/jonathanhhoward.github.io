@@ -1,4 +1,10 @@
 import React from 'react';
+import githubLogo from '../images/GitHub_Logo.png'
+import githubMark from '../images/GitHub-Mark-64px.png'
+import fccLogo from '../images/fcc_secondary_large.png'
+import fccMark from '../images/fcc_secondary_small.png'
+import liLogo from '../images/LI-Logo_b&w.png'
+import liMark from '../images/LI-In-Bug_b&w.png'
 
 function Profiles() {
   return (
@@ -7,19 +13,46 @@ function Profiles() {
             href="https://github.com/jonathanhhoward"
             className="button"
         >
-          GitHub
+          <img
+              src={githubLogo}
+              alt="github profile"
+              className="landscape"
+          />
+          <img
+              src={githubMark}
+              alt="github profile"
+              className="portrait"
+          />
         </a>
         <a
             href="https://www.freecodecamp.org/jonathanhoward"
             className="button"
         >
-          freeCodeCamp
+          <img
+              src={fccLogo}
+              alt="freecodecamp profile"
+              className="landscape"
+          />
+          <img
+              src={fccMark}
+              alt="freecodecamp profile"
+              className="portrait"
+          />
         </a>
         <a
             href="https://linkedin.com/in/jonathanhhoward"
             className="button"
         >
-          LinkedIn
+          <img
+              src={liLogo}
+              alt="linkedin profile"
+              className="landscape"
+          />
+          <img
+              src={liMark}
+              alt="linkedin profile"
+              className="portrait"
+          />
         </a>
       </div>
   );
