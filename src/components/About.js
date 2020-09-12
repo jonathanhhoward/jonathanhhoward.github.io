@@ -5,8 +5,10 @@ function About() {
   return (
       <div className="about">
         <img src={selfPortrait} alt="self portrait"/>
-        <h1>Jonathan Howard</h1>
-        <p>Software Developer</p>
+        <div>
+          <h1>Jonathan Howard</h1>
+          <p>Software Developer</p>
+        </div>
       </div>
   );
 }

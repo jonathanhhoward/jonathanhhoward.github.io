@@ -56,7 +56,7 @@ a {
     margin: 0;
     padding: 0;
 
-    @media screen and (min-width: 720px) {
+    @media screen and (min-width: 768px) {
       float: right;
       width: 480px;
     }
@@ -80,9 +80,14 @@ a {
 .about {
   @extend %screen-center;
 
+  @media screen and (max-height: 479px) and (orientation: landscape) {
+    flex-direction: row;
+  }
+
   img {
     max-height: 200px;
     border-radius: 50%;
+    margin: 20px;
   }
 
   h1 {
