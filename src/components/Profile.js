@@ -4,7 +4,7 @@ function Profile({href, src, alt}) {
   return (
       <a
           href={href}
-          className="button"
+          className="profile"
       >
         <img
             src={src.wide}
