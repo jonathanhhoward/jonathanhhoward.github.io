@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8975807b6d8e69c8074bd94e6abcd0cd",
+    "revision": "96c764f26ab97772455e49f06d52bd85",
     "url": "/index.html"
   },
   {
-    "revision": "f28d7e320b094df54b1b",
-    "url": "/static/css/main.46453b5d.chunk.css"
+    "revision": "f97ed0e168b7e12b8dac",
+    "url": "/static/css/main.579a84a8.chunk.css"
   },
   {
-    "revision": "be8e50fe55094b7399ea",
-    "url": "/static/js/2.220c0a08.chunk.js"
+    "revision": "10d31a68572a26231992",
+    "url": "/static/js/2.ab9b81cf.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/static/js/2.220c0a08.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f28d7e320b094df54b1b",
-    "url": "/static/js/main.d7453c5a.chunk.js"
+    "revision": "f97ed0e168b7e12b8dac",
+    "url": "/static/js/main.51b4abd4.chunk.js"
   },
   {
     "revision": "03b3d310c076805652fd",
     "url": "/static/js/runtime-main.fa3c400e.js"
   },
   {
-    "revision": "cefc20232703e5e3c24efd5f50d75e26",
-    "url": "/static/media/GitHub_Logo.cefc2023.png"
+    "revision": "fbe320cb67a27f49a92a659afb2ed111",
+    "url": "/static/media/GitHub_Logo.fbe320cb.png"
   },
   {
     "revision": "a7253842ea7f047063f163a373b51983",
@@ -36,16 +36,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/LI-Logo_b&w.7b6fc3d8.png"
   },
   {
-    "revision": "b05da2685abaef23d41c438c5a7abd07",
-    "url": "/static/media/analog-clock.b05da268.png"
-  },
-  {
-    "revision": "3e96157e319d31ef60b3fc4968f66e28",
-    "url": "/static/media/bar-chart.3e96157e.png"
-  },
-  {
-    "revision": "ae46569837df355da8de149ece440226",
-    "url": "/static/media/exercise-tracker.ae465698.png"
+    "revision": "bbce58dcd3f8bd9290f0c8fce85436c1",
+    "url": "/static/media/drum-machine.bbce58dc.png"
   },
   {
     "revision": "ebbf772002eb98dea2c9cb8e89f3bf6e",
@@ -56,20 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fcc_secondary_small.e6c785b9.png"
   },
   {
-    "revision": "093f8f6576234b7c0fd67e276fea86d6",
-    "url": "/static/media/file-metadata.093f8f65.png"
+    "revision": "5fe77a23454cc0d97d6ef4351e11a592",
+    "url": "/static/media/javascript-calculator.5fe77a23.png"
   },
   {
-    "revision": "15fde8926d89c15aaada544b61540948",
-    "url": "/static/media/javascript-calculator.15fde892.png"
-  },
-  {
-    "revision": "2e20f747e94a7dbfc38e061f9cf74510",
-    "url": "/static/media/markdown-previewer.2e20f747.png"
-  },
-  {
-    "revision": "e044f6e8ea4aa4738999aee770ec3761",
-    "url": "/static/media/metric-imp-converter.e044f6e8.png"
+    "revision": "cbd289951599edb5d8f8016421d80113",
+    "url": "/static/media/markdown-previewer.cbd28995.png"
   },
   {
     "revision": "05eaf99337c54c631a1136351a807f33",
@@ -120,23 +104,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2"
   },
   {
-    "revision": "c4c993c1d95df05ae3e713f7a2f77d27",
-    "url": "/static/media/pomodoro-clock.c4c993c1.png"
+    "revision": "ca6bd567bddb155dcd17d5d6e35d6950",
+    "url": "/static/media/pomodoro-clock.ca6bd567.png"
   },
   {
-    "revision": "fac3d9dbc8d24565ef25c1c7a6488c51",
-    "url": "/static/media/product-landing-page.fac3d9db.png"
+    "revision": "cb2f412eb6c5349329fc7a6ae3259c79",
+    "url": "/static/media/random-quote-machine.cb2f412e.png"
   },
   {
     "revision": "c12ac6cd91e7eb4b71649e494c10ed78",
     "url": "/static/media/self-portrait.c12ac6cd.jpg"
-  },
-  {
-    "revision": "eb1d3bab3b3fe384225f06cef043c423",
-    "url": "/static/media/survey-form.eb1d3bab.png"
-  },
-  {
-    "revision": "47e9ecdd9d196d83ac1352cc678cbd86",
-    "url": "/static/media/technical-documentation-page.47e9ecdd.png"
   }
 ]);
