@@ -4,7 +4,7 @@
 
 @import-normalize ;
 @import '~fontsource-montserrat';
-$primary-color: #87bdd8;
+$primary-color: #cccccc;
 $secondary-color: #eeeeee;
 $shadow-color: #333333;
 
@@ -80,12 +80,13 @@ a {
 .about {
   @extend %screen-center;
 
-  @media screen and (max-height: 479px) and (orientation: landscape) {
+  @media screen and (max-height: 576px) and (orientation: landscape) {
     flex-direction: row;
   }
 
   img {
-    max-height: 200px;
+    height: 240px;
+    max-height: 66vh;
     border-radius: 50%;
     margin: 20px;
   }
@@ -116,11 +117,11 @@ a {
 
 .project {
   margin: 1rem;
-  padding: 10px 10px 0;
-  border-radius: 2px;
+  padding: 8px 8px 0;
 
   img {
-    max-height: 250px;
+    width: 320px;
+    max-width: 90vw;
     border: none;
   }
 
@@ -146,18 +147,21 @@ a {
   padding: 4px;
 
   img {
-    height: 10vh;
+    height: 48px;
+    max-height: 10vh;
   }
 }
 
-.landscape {
-  @media (orientation: portrait) {
-    display: none;
-  }
+.wide {
+  display: none;
 }
 
-.portrait {
-  @media (orientation: landscape) {
+@media screen and (min-width: 480px) {
+  .wide {
+    display: initial;
+  }
+
+  .narrow {
     display: none;
   }
 }

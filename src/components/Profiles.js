@@ -16,12 +16,12 @@ function Profiles() {
           <img
               src={githubLogo}
               alt="github profile"
-              className="landscape"
+              className="wide"
           />
           <img
               src={githubMark}
               alt="github profile"
-              className="portrait"
+              className="narrow"
           />
         </a>
         <a
@@ -31,12 +31,12 @@ function Profiles() {
           <img
               src={fccLogo}
               alt="freecodecamp profile"
-              className="landscape"
+              className="wide"
           />
           <img
               src={fccMark}
               alt="freecodecamp profile"
-              className="portrait"
+              className="narrow"
           />
         </a>
         <a
@@ -46,12 +46,12 @@ function Profiles() {
           <img
               src={liLogo}
               alt="linkedin profile"
-              className="landscape"
+              className="wide"
           />
           <img
               src={liMark}
               alt="linkedin profile"
-              className="portrait"
+              className="narrow"
           />
         </a>
       </div>
