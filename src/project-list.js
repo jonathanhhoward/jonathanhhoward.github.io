@@ -1,52 +1,38 @@
-import surveyForm from './images/survey-form.png';
-import technicalDocPage from './images/technical-documentation-page.png';
-import productLandPage from './images/product-landing-page.png';
-import markdownPreview from './images/markdown-previewer.png';
-import javascriptCalc from './images/javascript-calculator.png';
+import randomQuoteMachine from './images/random-quote-machine.png';
+import drumMachine from './images/drum-machine.png';
+import markdownPreviewer from './images/markdown-previewer.png';
+import javascriptCalculator from './images/javascript-calculator.png';
 import pomodoroClock from './images/pomodoro-clock.png';
-import barChart from './images/bar-chart.png';
-import exerciseTracker from './images/exercise-tracker.png';
-import fileMetadata from './images/file-metadata.png';
-import metricImpConvert from './images/metric-imp-converter.png';
-import analogClock from './images/analog-clock.png';
 
 const projectList = [
   {
-    href: '/survey-form',
+    href: '/random-quote-machine',
     img: {
-      src: surveyForm,
-      alt: 'icon for survey-form',
+      src: randomQuoteMachine,
+      alt: 'icon for random-quote-machine',
     },
-    caption: 'Survey Form',
-  },
-  {
-    href: '/technical-documentation-page',
-    img: {
-      src: technicalDocPage,
-      alt: 'icon for technical-documentation-page',
-    },
-    caption: 'Technical Document Page',
-  },
-  {
-    href: '/product-landing-page/',
-    img: {
-      src: productLandPage,
-      alt: 'icon for product-landing-page',
-    },
-    caption: 'Product Landing Page',
+    caption: 'Random Quote Machine',
   },
   {
     href: '/markdown-previewer',
     img: {
-      src: markdownPreview,
+      src: markdownPreviewer,
       alt: 'icon for markdown-previewer',
     },
     caption: 'Markdown Previewer',
   },
   {
+    href: '/drum-machine',
+    img: {
+      src: drumMachine,
+      alt: 'icon for drum-machine',
+    },
+    caption: 'Drum Machine',
+  },
+  {
     href: '/javascript-calculator',
     img: {
-      src: javascriptCalc,
+      src: javascriptCalculator,
       alt: 'icon for javascript-calculator',
     },
     caption: 'JavaScript Calculator',
@@ -58,46 +44,6 @@ const projectList = [
       alt: 'icon for pomodoro-clock',
     },
     caption: 'Pomodoro Clock',
-  },
-  {
-    href: '/bar-chart',
-    img: {
-      src: barChart,
-      alt: 'icon for bar-chart',
-    },
-    caption: 'Bar Chart',
-  },
-  {
-    href: 'https://jhhoward-exercisetracker.glitch.me',
-    img: {
-      src: exerciseTracker,
-      alt: 'icon for exercise-tracker',
-    },
-    caption: 'Exercise Tracker',
-  },
-  {
-    href: 'https://jhhoward-filemetadata.glitch.me',
-    img: {
-      src: fileMetadata,
-      alt: 'icon for file-metadata',
-    },
-    caption: 'File Metadata Microservice',
-  },
-  {
-    href: 'https://jhhoward-metricimpconverter.glitch.me',
-    img: {
-      src: metricImpConvert,
-      alt: 'icon for metric-imp-converter',
-    },
-    caption: 'Metric-Imperial Converter',
-  },
-  {
-    href: 'https://github.com/jonathanhhoward/clock',
-    img: {
-      src: analogClock,
-      alt: 'icon for analog-clock',
-    },
-    caption: 'Analog Clock',
   },
 ];
 
