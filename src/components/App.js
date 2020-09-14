@@ -1,9 +1,9 @@
 import React from 'react';
 import {BrowserRouter, Route, Switch} from 'react-router-dom';
-import Navbar from './components/Navbar';
-import About from './components/About';
-import Showcase from './components/Showcase';
-import Profiles from './components/Profiles';
+import Navbar from './Navbar';
+import About from './About';
+import Showcase from './Showcase';
+import Profiles from './Profiles';
 import './App.scss';
 
 function App() {

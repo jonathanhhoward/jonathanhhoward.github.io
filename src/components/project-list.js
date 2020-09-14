@@ -1,8 +1,8 @@
-import randomQuoteMachine from './images/random-quote-machine.png';
-import drumMachine from './images/drum-machine.png';
-import markdownPreviewer from './images/markdown-previewer.png';
-import javascriptCalculator from './images/javascript-calculator.png';
-import pomodoroClock from './images/pomodoro-clock.png';
+import randomQuoteMachine from '../images/random-quote-machine.png';
+import drumMachine from '../images/drum-machine.png';
+import markdownPreviewer from '../images/markdown-previewer.png';
+import javascriptCalculator from '../images/javascript-calculator.png';
+import pomodoroClock from '../images/pomodoro-clock.png';
 
 const projectList = [
   {

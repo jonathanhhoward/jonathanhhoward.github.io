@@ -1,6 +1,6 @@
 import React from 'react';
 import Project from './Project';
-import projectList from '../project-list';
+import projectList from './project-list';
 
 function Showcase() {
   return (
