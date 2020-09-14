@@ -1,6 +1,6 @@
 import React from 'react';
 import Profile from './Profile';
-import profileList from './profile-list';
+import profileList from './profileList';
 
 function Profiles() {
   return (
