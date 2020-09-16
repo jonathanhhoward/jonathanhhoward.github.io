@@ -1,22 +1,11 @@
-import React from 'react';
+import React from "react";
 
-function Profile({href, src, alt}) {
+function Profile({ href, src, alt }) {
   return (
-      <a
-          href={href}
-          className="profile"
-      >
-        <img
-            src={src.wide}
-            alt={alt}
-            className="wide"
-        />
-        <img
-            src={src.narrow}
-            alt={alt}
-            className="narrow"
-        />
-      </a>
+    <a href={href} className="profile">
+      <img src={src.wide} alt={alt} className="wide" />
+      <img src={src.narrow} alt={alt} className="narrow" />
+    </a>
   );
 }
 
