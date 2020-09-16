@@ -1,6 +1,6 @@
-import React from "react";
-import Project from "./Project";
-import projectList from "./projectList";
+import React from 'react';
+import Project from './Project';
+import projectList from './projectList';
 
 function Showcase() {
   return (

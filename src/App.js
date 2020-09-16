@@ -1,10 +1,10 @@
-import React from "react";
-import { BrowserRouter, Route, Switch } from "react-router-dom";
-import Navbar from "./components/Navbar";
-import About from "./components/About";
-import Showcase from "./components/Showcase";
-import Profiles from "./components/Profiles";
-import "./App.scss";
+import React from 'react';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
+import Navbar from './components/Navbar';
+import About from './components/About';
+import Showcase from './components/Showcase';
+import Profiles from './components/Profiles';
+import './App.scss';
 
 function App() {
   return (

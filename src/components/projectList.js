@@ -1,49 +1,49 @@
-import randomQuoteMachine from "../images/random-quote-machine.png";
-import drumMachine from "../images/drum-machine.png";
-import markdownPreviewer from "../images/markdown-previewer.png";
-import javascriptCalculator from "../images/javascript-calculator.png";
-import pomodoroClock from "../images/pomodoro-clock.png";
+import randomQuoteMachine from '../images/random-quote-machine.png';
+import drumMachine from '../images/drum-machine.png';
+import markdownPreviewer from '../images/markdown-previewer.png';
+import javascriptCalculator from '../images/javascript-calculator.png';
+import pomodoroClock from '../images/pomodoro-clock.png';
 
 const projectList = [
   {
-    href: "/random-quote-machine",
+    href: '/random-quote-machine',
     img: {
       src: randomQuoteMachine,
-      alt: "icon for random-quote-machine",
+      alt: 'icon for random-quote-machine',
     },
-    caption: "Random Quote Machine",
+    caption: 'Random Quote Machine',
   },
   {
-    href: "/markdown-previewer",
+    href: '/markdown-previewer',
     img: {
       src: markdownPreviewer,
-      alt: "icon for markdown-previewer",
+      alt: 'icon for markdown-previewer',
     },
-    caption: "Markdown Previewer",
+    caption: 'Markdown Previewer',
   },
   {
-    href: "/drum-machine",
+    href: '/drum-machine',
     img: {
       src: drumMachine,
-      alt: "icon for drum-machine",
+      alt: 'icon for drum-machine',
     },
-    caption: "Drum Machine",
+    caption: 'Drum Machine',
   },
   {
-    href: "/javascript-calculator",
+    href: '/javascript-calculator',
     img: {
       src: javascriptCalculator,
-      alt: "icon for javascript-calculator",
+      alt: 'icon for javascript-calculator',
     },
-    caption: "JavaScript Calculator",
+    caption: 'JavaScript Calculator',
   },
   {
-    href: "/pomodoro-clock",
+    href: '/pomodoro-clock',
     img: {
       src: pomodoroClock,
-      alt: "icon for pomodoro-clock",
+      alt: 'icon for pomodoro-clock',
     },
-    caption: "Pomodoro Clock",
+    caption: 'Pomodoro Clock',
   },
 ];
 

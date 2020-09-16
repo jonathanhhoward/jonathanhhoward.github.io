@@ -1,5 +1,5 @@
-import React from "react";
-import selfPortrait from "../images/self-portrait.jpg";
+import React from 'react';
+import selfPortrait from '../images/self-portrait.jpg';
 
 function About() {
   return (
