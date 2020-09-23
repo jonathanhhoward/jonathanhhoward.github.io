@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.8c9019a7.chunk.css",
-    "main.js": "/static/js/main.75fa9590.chunk.js",
-    "main.js.map": "/static/js/main.75fa9590.chunk.js.map",
+    "main.js": "/static/js/main.983eb641.chunk.js",
+    "main.js.map": "/static/js/main.983eb641.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa3c400e.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa3c400e.js.map",
     "static/js/2.ab9b81cf.chunk.js": "/static/js/2.ab9b81cf.chunk.js",
     "static/js/2.ab9b81cf.chunk.js.map": "/static/js/2.ab9b81cf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.4b7be8b4557405b15c812f87a67c78e0.js": "/precache-manifest.4b7be8b4557405b15c812f87a67c78e0.js",
+    "precache-manifest.955a2602ec91be1d61a50db85d51817b.js": "/precache-manifest.955a2602ec91be1d61a50db85d51817b.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.8c9019a7.chunk.css.map": "/static/css/main.8c9019a7.chunk.css.map",
     "static/js/2.ab9b81cf.chunk.js.LICENSE.txt": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt",
@@ -21,7 +21,7 @@
     "static/media/javascript-calculator.png": "/static/media/javascript-calculator.5fe77a23.png",
     "static/media/markdown-previewer.png": "/static/media/markdown-previewer.cbd28995.png",
     "static/media/App.scss": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2",
-    "static/media/pomodoro-clock.png": "/static/media/pomodoro-clock.ca6bd567.png",
+    "static/media/pomodoro-clock.png": "/static/media/pomodoro-clock.83f1a540.png",
     "static/media/random-quote-machine.png": "/static/media/random-quote-machine.cb2f412e.png",
     "static/media/self-portrait.jpg": "/static/media/self-portrait.c12ac6cd.jpg"
   },
@@ -29,6 +29,6 @@
     "static/js/runtime-main.fa3c400e.js",
     "static/js/2.ab9b81cf.chunk.js",
     "static/css/main.8c9019a7.chunk.css",
-    "static/js/main.75fa9590.chunk.js"
+    "static/js/main.983eb641.chunk.js"
   ]
 }

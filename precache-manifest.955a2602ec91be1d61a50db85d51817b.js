@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a50782b699f80d55ff390191a9aaecf6",
+    "revision": "a2303b78f1a75cf5cb691ea4ee16ab92",
     "url": "/index.html"
   },
   {
-    "revision": "93f6450c98b1fc610cce",
+    "revision": "769c2196ad95c3c75f1d",
     "url": "/static/css/main.8c9019a7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.ab9b81cf.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "93f6450c98b1fc610cce",
-    "url": "/static/js/main.75fa9590.chunk.js"
+    "revision": "769c2196ad95c3c75f1d",
+    "url": "/static/js/main.983eb641.chunk.js"
   },
   {
     "revision": "03b3d310c076805652fd",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/montserrat-vietnamese-400-normal.4c16f6b5.woff2"
   },
   {
-    "revision": "ca6bd567bddb155dcd17d5d6e35d6950",
-    "url": "/static/media/pomodoro-clock.ca6bd567.png"
+    "revision": "83f1a5400591bbab700864028dc351f6",
+    "url": "/static/media/pomodoro-clock.83f1a540.png"
   },
   {
     "revision": "cb2f412eb6c5349329fc7a6ae3259c79",
